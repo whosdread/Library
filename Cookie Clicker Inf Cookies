@@ -1,0 +1,1 @@
+javascript:(function() {    Game.cookies = Infinity;})();
